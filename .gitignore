@@ -30,3 +30,15 @@ xmlrpc.php
 /scripts
 /themes
 
+
+.buildpath
+
+.project
+
+.settings/.jsdtscope
+
+.settings/org.eclipse.wst.jsdt.ui.superType.name
+
+.settings/org.eclipse.php.core.prefs
+
+.settings/org.eclipse.wst.jsdt.ui.superType.container
